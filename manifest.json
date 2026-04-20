@@ -308,9 +308,4 @@
       "sha1": "7082c0fc54660f964dc3d09127d33e126368d659"
     }
   ],
-  "libraries": [
-    {
-      "path": "cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
-    }
-  ]
-}
+	"libraries": []
